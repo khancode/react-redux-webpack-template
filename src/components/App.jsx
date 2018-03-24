@@ -7,7 +7,7 @@ export default class App extends Component {
       <div className="app">
         <h1>Hello, World!</h1>
         <h3 className="description">
-          This is a minimal, barebones React
+          This is a minimal, barebones React & Redux
           with Webpack boilerplate application.
         </h3>
       </div>
